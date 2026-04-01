@@ -1,2 +1,1 @@
-# first_project
-My very 1sr project
+Тестовый репозиторий для работы с GitHub
